@@ -4,8 +4,7 @@ const providers = [
     tag: 'google',
     libName: 'nodecloud-gcp-plugin',
     configFile: {
-      keyFilename:
-        'E:\\Lukasz\\Programming\\GCI\\nodecloud-gcp-dry-run\\key.js',
+      keyFilename: '<keyFilename>',
       projectId: 'dronesym-thelukaszns',
     },
   },
