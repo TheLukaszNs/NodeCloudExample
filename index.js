@@ -1,7 +1,7 @@
 const nodeCloud = require('nodecloud');
 const gcpProvider = nodeCloud.getProvider(
   'google',
-  'E:\\Lukasz\\Programming\\GCI\\nodecloud-gcp-dry-run',
+  'E:\\Lukasz\\Programming\\GCI\\nodecloud-gcp-dry-run'
 );
 
 // const googleSDK = gcpProvider.getSDK()
