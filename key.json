@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dronesym-thelukaszns",
+  "private_key_id": "79749e7f7d37c9c85ae3f8a0b6b897aeda917be7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDCqyg/mlF7Plw/\nIlgh2owiApRjalSmFOV0wH6nj04I9QrEoNOQQU1IXdlcx6tJYVI6hR+UY/WEY606\npJp0NEtthS0nBkOGrXxvgvq2zrxl2bHZ1Z1sZTu23S/BWayVuaiDEgrgZtS9UoG2\nzmR68qF5P6lZbvPXdFNFKvSbVQcmJuGhg3nq7ToG4GohpVaibg9GIatmxBJntH5B\nSmBwozeDOxlM9yY99ZBw1CpAhNUo59Ro3e655E69DHhgzbb02V73IegWYgPgdIby\nan8/Khxpvh3lip81J4f8Vb5B3LaD2Fy/qyE+gdwrjhYl8HMwVQNqywNABLa57nkQ\nh8FOzOVNAgMBAAECggEAQG4bzSlLTKowJ+k7GEFYXi1SZbEcwTdrVoAbq2O/5TEN\nVlUQkM88P/Zn6dBgPdJLP/ktoZSP/zhqbl1qjYl9aYtJjYACO4ISDGpihrzYGDG8\nLqgICYdcA0Mj+i+u8oNXZcJD/U+rm9nB+vpGwXaqwRG0AFi7thTXNq5n9T1oN1TU\nqLu9LXPNyLaB2ZBXBBiPqUNYK+vkV/Rn6txGoUSuvqZUWKqAAEfBfZCM3KMZuNZN\nLr1htL95x7tyh7AU2BjHJwII+xSanFKbYpdhRbYUfUUmWDWFKXOueQK1sTR7wDk2\nobOJIpz1ckortB+VOq+Y+qLxylco7FO+b6usVaW+dQKBgQD1kx4X9kKFcmE5BnZk\nDMqfcOocP0/XDuOALdiuvE5673gyIGHGWfGPeDIY2cvxC/CcCAFUP7py9sMf9/5u\nH+j4vZkSwzQuRQrkEAdIjfMI+rNZyml5Td1ltJHppxFVJNrdkZ6pIMMTe88Vqoaa\noJFQIJUNbWh9cBU3dS9THffYnwKBgQDK7swJ4s93Wze5KQlu/1fh6hJCY9I4ijMO\n0e2fXomiNRJtAqb/w9KCJEnmqd1wImT3zvUHUJ4sjsQ/6BalTKQGWMXEkIUFN723\n1K0exKw1re2Ve7tEh8PWntnJNG647DcFp4OmJ5BCXRCdGsw/eRUysOz1gzG96kFd\nm77TXds+kwKBgQCh8Vx9DMadXepDQsG8BLtyHXIlIpMyDP11v8YOpNtUMqse0z/n\nH9UueWMABFB7KxaGrrjBqCz6N0RBxragRKbLsaxKNTQp9xnRf8htzj4hA8JWSib3\n+aMwuL0oSiYh8eXrC2aHvbUnGhRcA1I0kgKBxprEegvX/JvhMIP+2dphnQKBgQCy\n7D8cTE0t6FBGQideJWaf+phkzsxQK5F+9Jr1VA435WE8mgUSJt7Y/hPme0iRkNHD\nKEckTvFXSf1Ad2pYDi3kpqqgd+fAxPfSOIL3SOKpZZO/o9tmPenuthpBa6hgBW0x\n4BOUEPgBezqlujXxlNma2yHiCe12jC9b0HE8vVkMXwKBgQCElTTeXOvDMyB0uFZy\n48AYK+PcWk68kzrxXgcN8gqJRIAdVNw/+x701TFLVX4LMNwpC2r02R8jchVMMA1t\nVp5QQa8js5m9Z9rY1dlta2mYJjDOwAzFZjJC0DL9x8kTMIstcIq/D5Xq3ri8/bNj\nfOR/ckgbuWnUsI4o4vDeP1gbXg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dronesym-thelukaszns@appspot.gserviceaccount.com",
+  "client_id": "115913944405363143587",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dronesym-thelukaszns%40appspot.gserviceaccount.com"
+}
